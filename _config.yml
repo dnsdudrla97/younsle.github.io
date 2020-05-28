@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: 모의 해킹 연구
+subtitle: Younsle 팀의 모의 해킹
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  취약점 분석 및 다양한 정보보안 관련을 게시하는 블로그 입니다.😀
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://younsle.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -25,12 +25,12 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+author: Younsle
+author_bio: Hi, my name is Young Woon.
+author_email: "younsle@kakao.com"
+author_location: Korea
+author_website_url: "https://younsle.github.io"
+typewrite-text: Crack System root
 
 author_work_experiences:
             - company_name: Google
@@ -67,30 +67,30 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: Younsle1
+github_username: dnsdudrla97
+# facebook_username: johndoe
+# linkedin_username: johndoe
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
 # disqus_shortname: sujay-kundu
-hyvor_talk_website_id: 476
+hyvor_talk_website_id: 741
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+# wakatime_username: sujaykundu777
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: younsle@kakao.com
 
 # syntax highlighter
 markdown: kramdown
@@ -98,7 +98,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10
+# google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
@@ -107,11 +107,11 @@ show_author_project_details: true
 
 # algolia search
 algolia:
-  application_id: D9WA1YKTRQ
-  index_name: blog_posts # You can replace that with whatever name you want
+  application_id: UBRAXGJKR8
+  index_name: Younsle # You can replace that with whatever name you want
   files_to_exclude: []
   nodes_to_index: 'article'
-  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+  search_only_api_key: f9b56b944e03ba17bf4927e2dfef7915
 
 # pagination of posts
 paginate: 4

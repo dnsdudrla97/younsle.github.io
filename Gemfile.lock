@@ -161,7 +161,7 @@ PLATFORMS
 DEPENDENCIES
   bundler
   devlopr (~> 0.4.5)
-  jekyll (~> 4.0.0)
+  jekyll
   jekyll-admin (~> 0.9.0)
   jekyll-algolia (~> 1.6)
   jekyll-feed (~> 0.13.0)
